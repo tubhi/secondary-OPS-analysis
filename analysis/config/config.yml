@@ -11,7 +11,12 @@ preprocess:
   sbs_combo_fp: config/sbs_combo.tsv
   phenotype_samples_fp: config/phenotype_samples.tsv
   phenotype_combo_fp: config/phenotype_combo.tsv
-  sbs_channel_order: null
+  sbs_channel_order:
+  - DAPI
+  - Cy3
+  - AF594
+  - Cy5
+  - Cy7
   phenotype_channel_order: null
   phenotype_round_order: null
   sbs_channel_order_flip: null
