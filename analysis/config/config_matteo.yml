@@ -1,0 +1,19 @@
+
+# ~BrieFlow analysis configuration file~
+
+# All paths are resolved relative to the directory the workflow is run from.
+
+# Parameters:
+all:
+  root_fp: brieflow_output
+preprocess:
+  sbs_samples_fp: config/sbs_samples_matteo.tsv
+  sbs_combo_fp: config/sbs_combo_matteo.tsv
+  phenotype_samples_fp: config/phenotype_samples_matteo.tsv
+  phenotype_combo_fp: config/phenotype_combo_matteo.tsv
+  sbs_channel_order: null
+  phenotype_channel_order: null
+  phenotype_round_order: null
+  sbs_channel_order_flip: null
+  phenotype_channel_order_flip: null
+  sample_fraction: 0.1

@@ -1,0 +1,2 @@
+sample_fp	plate	cycle	well	channel
+test_data/plate1_10x_c1_Well4_ChannelDAPI,Cy3,AF594,Cy5,Cy7_Seq0001.nd2	1	1	4	DAPI,Cy3,AF594,Cy5,Cy7
