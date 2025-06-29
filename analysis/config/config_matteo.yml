@@ -5,7 +5,7 @@
 
 # Parameters:
 all:
-  root_fp: brieflow_output
+  root_fp: /Volumes/SecondaryOPS_TU/brieflow_output
 preprocess:
   sbs_samples_fp: config/sbs_samples_matteo.tsv
   sbs_combo_fp: config/sbs_combo_matteo.tsv

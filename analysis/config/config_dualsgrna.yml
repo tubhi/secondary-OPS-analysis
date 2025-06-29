@@ -5,9 +5,9 @@
 
 # Parameters:
 all:
-  root_fp: /Volumes/SecondaryOPS_TU/brieflow_output
+  root_fp: /Volumes/scndary_OPS/Genotyping/dualsgrna_brieflow_output
 preprocess:
-  sbs_samples_fp: config/sbs_samples.tsv
+  sbs_samples_fp: config/sbs_samples_dualsgrna.tsv
   sbs_combo_fp: config/sbs_combo.tsv
   phenotype_samples_fp: config/phenotype_samples.tsv
   phenotype_combo_fp: config/phenotype_combo.tsv
