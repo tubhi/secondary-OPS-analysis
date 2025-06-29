@@ -5,7 +5,7 @@
 
 # Parameters:
 all:
-  root_fp: /Volumes/scndary_OPS/Genotyping/dualsgrna_brieflow_output
+  root_fp: "/home/tubhi/tubhi-phenotyping-temp/brieflow_preprocessing_output/dual_sgrna"
 preprocess:
   sbs_samples_fp: config/sbs_samples_dualsgrna.tsv
   sbs_combo_fp: config/sbs_combo.tsv
